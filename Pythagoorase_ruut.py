@@ -1,0 +1,4 @@
+﻿from Funktsioonid import *
+
+main()
+
